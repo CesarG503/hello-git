@@ -1,3 +1,5 @@
+### Anotaciones de las pranticas de git y github
+
 # Comandos básicos de terminal  
 - `ls`: Muestra el contenido del directorio actual.  
 - `cd <nombre_directorio>`: Navega a otro directorio.  
